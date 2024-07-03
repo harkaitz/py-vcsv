@@ -1,0 +1,1 @@
+Extract data from a "Vertical CSV file (VCSV)". A vertical CSV has keys in it's first columns and values in the rest.
